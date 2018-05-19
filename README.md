@@ -1,3 +1,3 @@
-# bootstrap4_courses
+# Bootstrap 4
 
-Templates utilizando Bootstrap 4 feitos em um curso.
+Templates utilizando Bootstrap 4 criados em um curso da Udemy.
